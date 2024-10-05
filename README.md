@@ -7,7 +7,11 @@ This directory contains the dotfiles for my system
 Ensure you have the following installed on your system
 
 ### Git
+```
+sudo apt install git
+```
 
+### Stow
 ```
 sudo apt install stow
 ```
